@@ -1,4 +1,4 @@
-Article Authors: Trey Burks, Paul Jones, Dustin Lee, Aaron Otto, Jonah White
+Article Authors: Trey Burks, Jacob Evans, Paul Jones, Dustin Lee, Aaron Otto, Jonah White
 "Failure is only the opportunity to begin again more intelligently" - Henry Ford.
 We are of 6 seniors studying computer science at Tennessee Tech University. During the fall semester of 2019, we were giving a problem by our client to solve as our capstone project. Podman is a container engine like Docker that allows you to create and run containers that run programs so that you don't have to install anything on a new system. The only issue with Podman is that it is extremely difficult to install on a mac. Our solution to the problem was to create a turnkey solution to install Podman with minimal effort from the user. We started out by creating an ansible script to install and setup Podman. Although we ran into some issues early on, we forged ahead and soon learned that plans can easily be changed.
 
